@@ -8,9 +8,6 @@
 
 A Python implementation of the popular game "Rock Paper Scissors Lizard Spock," an expanded version of the classic Rock Paper Scissors game that was popularized by the TV show "The Big Bang Theory." This game reduces the chance of ties by introducing two additional options: Lizard and Spock.
 
-Created by: Vaichalyy  
-Last Updated: 2025-05-26
-
 ## 🎯 Game Rules
 
 The game follows these winning rules:
