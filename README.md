@@ -1,6 +1,6 @@
 # Rock Paper Scissors Lizard Spock 🎮
 
-![Game Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetyarn.io%2Fyarn-clip%2F5ff85e26-22cb-4847-a2e4-e5a5913658a5&psig=AOvVaw3-3Z6nJAMSngMTbG4lcomv&ust=1748340396814000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiG_tjxwI0DFQAAAAAdAAAAABAe)
+![Game Banner](roack-paper.gif)
 
 ## 📋 Description
 
