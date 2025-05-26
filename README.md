@@ -1,6 +1,6 @@
 # Rock Paper Scissors Lizard Spock 🎮
 
-![Game Banner](https://i.imgur.com/cHDd3Xs.png)
+![Game Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetyarn.io%2Fyarn-clip%2F5ff85e26-22cb-4847-a2e4-e5a5913658a5&psig=AOvVaw3-3Z6nJAMSngMTbG4lcomv&ust=1748340396814000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiG_tjxwI0DFQAAAAAdAAAAABAe)
 
 ## 📋 Description
 
@@ -102,7 +102,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Original game variation by Sam Kass and Karen Bryla
 - Popularized by the TV show "The Big Bang Theory"
-- Implemented by Vaichalyy
 
 ---
 
